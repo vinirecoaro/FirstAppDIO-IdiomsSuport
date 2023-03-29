@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Desafio1-IdiomSupport</string>
+    <string name="hello_world">Olá Mundo!</string>
 </resources>
